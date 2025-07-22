@@ -56,9 +56,9 @@ rightFieldBtn.addEventListener("click", function(){
     void lateralMove.offsetWidth
     lateralMove.classList.add("ghost-move-right")
 
-    coverUp.classList.remove("cover-up-state2")
-    void coverUp.offsetWidth
-    coverUp.classList.add("cover-up-state2")
+    // coverUp.classList.remove("cover-up-state2")
+    // void coverUp.offsetWidth
+    // coverUp.classList.add("cover-up-state2")
 
     console.log(lateralMove)
         console.log(coverUp)
